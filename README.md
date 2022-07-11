@@ -1,2 +1,0 @@
-# configs
-For Config Server
